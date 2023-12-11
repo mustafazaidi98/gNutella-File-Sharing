@@ -1,0 +1,14 @@
+peer1.server=2
+peer2.server=3
+peer3.server=1
+peer4.server=1
+peer5.server=3
+peer7.server=2
+
+server1.ip=69.243.190.143
+server2.ip=69.243.190.144
+server3.ip=69.243.190.145
+
+server1.next=2
+server2.next=1,3
+server3.next=1
